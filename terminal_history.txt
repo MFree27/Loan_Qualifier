@@ -1,0 +1,372 @@
+   50  brew install --cask anaconda
+   51  conda activate dev
+   52  conda activate dev
+   53  python3
+   54  conda activate dev
+   55  /opt/homebrew/anaconda3/bin/jupyter_mac.command ; exit;
+   56  /opt/homebrew/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   57  /opt/homebrew/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   58  /opt/homebrew/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   59  /opt/homebrew/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   60  /opt/homebrew/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   61  /opt/homebrew/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   62  /opt/homebrew/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   63  /opt/homebrew/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   64  /usr/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   65  /usr/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   66  /usr/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   67  /usr/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   68  /usr/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   69  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   70  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   71  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   72  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   73  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   74  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   75   /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51686 -- /Users/mikecutno/Desktop/github_upload/main.py 
+   76   cd /Users/mikecutno/Desktop/github_upload ; /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51733 -- /Users/mikecutno/Desktop/github_upload/main.py 
+   77   cd /Users/mikecutno/Desktop/github_upload ; /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51738 -- /Users/mikecutno/Desktop/github_upload/main.py 
+   78   cd /Users/mikecutno/Desktop/github_upload ; /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51894 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+   79   /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51910 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+   80   /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51934 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+   81  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   82  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   83  brew uninstall python
+   84  brew uninstall anaconda3
+   85  brew uninstall conda
+   86  conda activate dev
+   87  conda activate devenvironment
+   88  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   89  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   90  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   91  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   92  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   93   /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61929 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+   94  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   95  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   96  /usr/bin/python3 /Users/mikecutno/Desktop/github_upload/main.py
+   97  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   98  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+   99  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  100  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  101  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  102  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  103  /usr/bin/python3
+  104   /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61809 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+  105   cd /Users/mikecutno/Desktop/github_upload ; /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61899 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+  106   cd /Users/mikecutno/Desktop/github_upload ; /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61910 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+  107   cd /Users/mikecutno/Desktop/github_upload ; /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61918 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+  108   cd /Users/mikecutno/Desktop/github_upload ; /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61968 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+  109   /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61940 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+  110   /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61954 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+  111   /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61937 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+  112   cd /Users/mikecutno/Desktop/github_upload ; /usr/bin/env /usr/bin/python3 /Users/mikecutno/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61949 -- /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py 
+  113  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  114  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  115  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  116  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  117  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  118  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  119  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  120  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  121  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  122  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  123  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  124  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  125  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  126  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  127  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  128  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  129  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  130  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  131  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  132  /usr/bin/python3
+  133  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  134  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  135  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  136  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  137  /usr/bin/python3 /Users/mikecutno/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  138  /usr/bin/python3 /Users/mikecutno/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  139  /usr/bin/python3 /Users/mikecutno/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  140  /usr/bin/python3 /Users/mikecutno/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  141  /usr/bin/python3 /Users/mikecutno/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  142  /usr/bin/python3 /Users/mikecutno/Downloads/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  143  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  144  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  145  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  146  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  147  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  148  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  149  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  150  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  151  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  152  cd atm
+  153  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  154  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  155  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  156  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  157  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  158  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  159  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  160  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  161  conda install
+  162  conda --version
+  163  conda update conda
+  164  conda create -n dev python=3.9 anaconda
+  165  $ conda activate dev
+  166  conda activate dev
+  167  echo #{SHELL}
+  168  python verson
+  169  python version
+  170  help
+  171  /Users/mikecutno/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  172  cd Git
+  173  $ brew install git
+  174  brew install git
+  175  sudo port install git
+  176  sudo port install git
+  177  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  178  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  179  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  180  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  181  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  182  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  183  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  184  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  185  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  186  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  187  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  188  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  189  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  190  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  191  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  192  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  193  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  194  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  195  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  196  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  197  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  198  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  199  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  200  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  201  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  202  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  203  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  204  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  205  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  206  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  207  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  208  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  209  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  210  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  211  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  212  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  213  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  214  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  215  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  216  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  217  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  218  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  219  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  220  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  221  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  222  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  223  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  224  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  225  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  226  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  227  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  228  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  229  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  230  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  231  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  232  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  233  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  234  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  235  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  236  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  237  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  238  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  239  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  240  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  241  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  242  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  243  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  244  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  245  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  246  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  247  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  248  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  249  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  250  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  251  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  252  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  253  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  254  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  255  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  256  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  257  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  258  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  259  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  260  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  261  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  262  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  263  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  264  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  265  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  266  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  267  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  268  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  269  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  270  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  271  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  272  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  273  conda activate atmdev
+  274  /Users/mikecutno/opt/anaconda3/envs/atmdev/bin/python /Users/mikecutno/Documents/GitHub/ATM/atm.py
+  275  pip install fire
+  276  pip install questionary
+  277  /Users/mikecutno/opt/anaconda3/envs/atmdev/bin/python /Users/mikecutno/Documents/GitHub/ATM/atm.py
+  278  /usr/bin/python3 /Users/mikecutno/Downloads/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  279  conda activate atmdev
+  280  /Users/mikecutno/opt/anaconda3/envs/atmdev/bin/python /Users/mikecutno/opt/anaconda3/envs/atmdev/atmApp/atm.py
+  281  /Users/mikecutno/opt/anaconda3/envs/atmdev/bin/python /Users/mikecutno/opt/anaconda3/envs/atmdev/atmApp/atm.py
+  282  123456
+  283  /usr/bin/python3 /Users/mikecutno/Documents/GitHub/Microcredit-Loan-Valuation-Automator/Starter_Code/loan_analyzer.py
+  284  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  285  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  286  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  287  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  288  /usr/bin/python3 /Users/mikecutno/Desktop/Starter_Code/loan_analyzer.py
+  289  conda create -n atmdev python=3.9 anaconda
+  290  conda activate atmdev
+  291  conda list
+  292  pip install -r requirements.txt
+  293  pip show fire
+  294  dir
+  295  conda environments list
+  296  conda env list
+  297  ls
+  298  opt
+  299  ls opt
+  300  pip install -r requirements.txt
+  301  pip install -r requirements.txt
+  302  pip install -r requirements.txt
+  303  pip install -r requirements.txt
+  304  requirements.txt
+  305  ls 
+  306  ls opt
+  307  pip install fire
+  308  pip install questionary
+  309  pip install -r requirements.txt
+  310  pip install -r requirements.txt
+  311  pip install -r requirements.txt
+  312  brew install python 3.7
+  313  conda activate dev
+  314  conda list pandas
+  315  conda list jupyterlab
+  316  jupyter lab
+  317  conda activate dev
+  318  import pandas as pd
+  319  jupyter lab
+  320  show path
+  321  path
+  322  view path
+  323  conda activate dev\\n
+  324  conda deactivate path
+  325  conda deactivate dev
+  326  Users/mikecutno/Downloads/importdata/sales.csv
+  327  ls
+  328  ls downloads
+  329  git
+  330  git@github.com:MFree27/loan-qualifier-application.git
+  331  git remote add origin git@github.com:MFree27/loan-qualifier-application.git
+  332  conda deactivate dev
+  333  conda
+  334  source deactivate
+  335  conda deactivate
+  336  base
+  337  env 
+  338  (myenv)
+  339  myenv
+  340  env
+  341  home
+  342  pwd
+  343  git
+  344  pwd
+  345  cd GIT
+  346  pwd
+  347  ls
+  348  ls documents
+  349  cd GIT
+  350  cd zGIT
+  351  ls desktop
+  352  cd zGIT
+  353  ls desktop
+  354  pwd
+  355  cd zGIT
+  356  zsh
+  357  ls
+  358  pwd
+  359  pwd
+  360  ls
+  361  cd zGIT
+  362  pwd
+  363  ls
+  364  echo "# loan-qualifier-application" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:MFree27/loan-qualifier-application.git\ngit push -u origin main
+  365  cd Challenge_2_starter
+  366  git clone
+  367  git clone git@github.com:MFree27/loan-qualifier-application.git
+  368  git remote add origin git@github.com:MFree27/loan-qualifier-application.git\ngit branch -M main\ngit push -u origin main
+  369  cd ~/.ssh
+  370  ls
+  371  ssh-keygen -o -t rsa -C "mikecutno@gmail.com"
+  372  cat~/.ssh/id_rsa.pub
+  373  cat ~/.ssh/id_rsa.pub
+  374  git clone git@github.com:MFree27/loan-qualifier-application.git
+  375  git push
+  376  git
+  377  cd zGIT
+  378  ls
+  379  cd base
+  380  pwd
+  381  ls
+  382  jupyter lab
+  383  pwd
+  384  ls
+  385  add folder
+  386  pwd
+  387  cd zGIT
+  388  pwd
+  389  ls
+  390  cd Challenge_2_starter
+  391  pwd
+  392  ls
+  393  git remote add origin git@github.com:MFree27/loan-qualifier-application.git\ngit branch -M main\ngit push -u origin main
+  394  ls
+  395  pwd
+  396  ls
+  397  cd loan_qualifier_app
+  398  conda activate dev
+  399  touch .gitignore
+  400  touch.gitignore
+  401  touch .gitignore
+  402  history 50 > terminal_history.txt
+  403  cd github
+  404  dir
+  405  cd challenge_2_files
+  406  cd challenge_2_starter
+  407  cd Challenge_2_starter
+  408  pwd
+  409  ls
+  410  conda activate dev
+  411  jupyter lab
+  412  brew install gh
+  413  brew upgrade
+  414  cd github
+  415  ls
+  416  cd Documents
+  417  ls
+  418  cd GitHub
+  419  ls
+  420  history 50 > terminal_history.txt
+  421  cd Loan_Qualifier
