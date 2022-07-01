@@ -22,7 +22,7 @@ The Loan Qualifier Application runs in Python 3
 
 ## Usage
 
-1. When prompted to enter a file path for the rate sheet copy and paste the .csv filepath to the command line, press ENTER.
+1. When prompted to enter a file path for the rate sheet copy and paste the .csv filepath to the command line, press ENTER. (see the screenshot provided on github for an example)
 2. The next prompt asks for the client's credit score. Enter the credit score and press ENTER.
 3. Next, enter the amount of monthly debt. Be sure to not include commas as seperators. Press ENTER. 
 4. Next, enter the total monthly income. Be sure to not include commas as seperators. Press ENTER.
